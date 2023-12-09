@@ -1,0 +1,48 @@
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\bin\Debug\elibrary_system.exe.config
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\bin\Debug\elibrary_system.exe
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\bin\Debug\elibrary_system.pdb
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\obj\Debug\elibrary_system.Form1.resources
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\obj\Debug\elibrary_system.Properties.Resources.resources
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.GenerateResource.cache
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\obj\Debug\elibrary_system.exe
+C:\Users\HP\Documents\3rd year 1st sem\database\proj\elibrary_system\elibrary_system\obj\Debug\elibrary_system.pdb
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\elibrary_system.exe.config
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\elibrary_system.exe
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\elibrary_system.pdb
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\MySql.Data.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\MySql.Web.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\Google.Protobuf.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\ZstdNet.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\BouncyCastle.Crypto.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\Ubiety.Dns.Core.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\System.Buffers.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\K4os.Compression.LZ4.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\K4os.Hash.xxHash.dll
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\MySql.Data.xml
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\bin\Debug\MySql.Web.xml
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.AssemblyReference.cache
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.SuggestedBindingRedirects.cache
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.exe.config
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.BorrowForm.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.FacultyDashboard.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.FacultyLogin.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.Form1.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.LibrarianDashboard.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.BELMSloginform.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.Properties.Resources.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.ReturnBookds.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.SearchTab.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.StudentDashboard.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.StudentLogIn.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.GenerateResource.cache
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.CoreCompileInputs.cache
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.csproj.CopyComplete
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.exe
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.pdb
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.FormAddFaculty.resources
+D:\Temp\CollegeLinx\elibrary_system\elibrary_system\obj\Debug\elibrary_system.FormAddStudent.resources
